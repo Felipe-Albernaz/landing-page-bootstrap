@@ -1,11 +1,12 @@
-<h1>Sistema de cadastro de jogos</h1>
 
-> Status do projeto: Em desenvolvimento
+> Landing page com Bootstrap
 
-Para rodar esse projeto na sua máquina, por favor digite:
+<p>Desenvolvido durante o curso de bootstrap com a alura</p>
 
-```
-node app.js
-```
+>Tecnologias utilizadas
 
-:)
+``Bootstrap``
+
+
+
+
