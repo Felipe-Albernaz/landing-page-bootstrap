@@ -1,0 +1,35 @@
+.cor-especial{
+    color: darkred;
+}
+
+.imagem-carrosel{
+    object-fit: cover;
+    height: 400px;
+}
+
+.fonte-titulo{
+    font-family: "Pacifico";
+}
+
+.btn-cor-especial{
+    background-color: darkred;
+    color: #ffffff;
+}
+
+.btn-cor-especial:hover{
+    background-color: rgb(170, 13, 13);
+    color: #ffffff;
+}
+
+.borda-especial{
+    border-color: darkred;
+}
+
+.imagem-card{
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-largura{
+    max-width: 18rem;
+}
